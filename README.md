@@ -1,7 +1,7 @@
 # Tennis
 Tennis Command Line Program Written in Go for Keeping track of scores
 
-###Steps to Use this Start the game
+### Steps to Use this Start the game
 
 Run the file "Main.go" to start the console program
 
@@ -23,7 +23,7 @@ You can input the following settings with one setting per line before the progra
  When you are ready to start the game type ***"play"*** if no settings are specified default values will be used. Default player
  names are "Player One" and "Player Two" while default scores are "Love"
 
- ###How to Play
+ ### How to Play
 
  - After you have typed "play" you are ready to start the game
  - Type "<PLAYER_NAME> scores!" to determine which player scores where <PLAYER_NAME> is either the specified or default player name
